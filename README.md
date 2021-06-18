@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sravankodem
-- 👀 I’m interested Cloud & DevOps
+- 👀 I’m interested Web Development,Cloud & DevOps
 - 🌱 I’m currently learning Cloud & DevOps
 - 💞️ I’m looking to collaborate on Cloud & DevOps projects
 - 📫 How to reach me ...sravakodem@gmail.com
